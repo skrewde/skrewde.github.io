@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 16px;
+}
+
+.material-symbols-rounded {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' -25,
+  'opsz' 48
+}
