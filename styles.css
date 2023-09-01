@@ -9,10 +9,26 @@ p {
     font-size: 16px;
 }
 
-.material-symbols-rounded {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' -25,
-  'opsz' 48
+body {
+    background-color: #d5d5d5;
+    padding: 10px;
+    transition: background-color 0.85s;
+}
+
+#placeholder {
+    color: white;
+    align-content: center;
+}
+
+#heading {
+    color: white;
+    font-size: 48px;
+}
+
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
