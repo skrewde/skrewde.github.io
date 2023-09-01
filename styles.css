@@ -10,9 +10,9 @@ p {
 }
 
 body {
-    background-color: #d5d5d5;
+    background-color: #c5c5c5;
     padding: 10px;
-    transition: background-color 0.85s;
+    transition: background-color 0.9s;
 }
 
 #placeholder {
