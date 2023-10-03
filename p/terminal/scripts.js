@@ -3,7 +3,7 @@ const commandInput = document.getElementById("commandInput");
 const help = [
     `CLEAR---------Clears the screen.`,
     `HELP----------Provides Help information for Terminal commands.`,
-    `VERSION-------Displays the Terminal version.`,
+    `VERSION-------Provides Help information for Terminal commands.`,
 ];
 
 function writeToTerminal(message) {

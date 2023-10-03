@@ -12,7 +12,7 @@ body {
     height: 80%;
     margin: auto;
     border: 2px solid #00FF00;
-    /* overflow: hidden; */
+    overflow: hidden;
     display: flex;
     flex-direction: column;
     scrollbar-width:none;
