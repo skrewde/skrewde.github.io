@@ -4,9 +4,8 @@
 
 @font-face {
     font-family: 'plastiqueregular';
-    src: url('plastique-regular-webfont.wof') format('woff2'),
-         url('plastique-regular-webfont.woff') format('woff');
+    src: url('../plastique-regular.woff') format('woff'),
+         url('../plastique-regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
-
 }
