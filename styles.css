@@ -1,14 +1,7 @@
 
 @import url('https://fonts.cdnfonts.com/css/satoshi');
 
-@font-face {
-  font-family: 'Plastique';
-  font-display: swap;
-  src: url('./fonts/Plastique/plastique-regular.woff') format('woff'),
-       url('./fonts/Plastique/plastique-regular.woff2') format('woff2');
-  font-weight: 400 600;
-  font-style: normal;
-}
+@import url("http://skrewde.github.io/fonts/fonts.css")
 
 /* @font-face {
   font-family: 'Plastique';
