@@ -2,7 +2,7 @@
 @font-face {
     font-family: "OVSoge Light";
     font-display: swap;
-    src: url("ovsoge-light.otf") format("ttf");
+    src: url("ovsoge-light.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
 }
