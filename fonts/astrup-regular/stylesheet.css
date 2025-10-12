@@ -1,8 +1,8 @@
-
 @font-face {
-    font-family: "Astrup Regular";
-    font-display: swap;
-    src: url("astrup-regular.ttf") format("ttf");
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'Astrup Regular';
+  src: url('/fonts/astrup-regular.woff2') format('woff2'),
+       url('/fonts/astrup-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
